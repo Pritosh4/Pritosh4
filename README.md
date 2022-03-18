@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pritosh Thomas Zachariah
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently doing my undergrad from Vellore Institute of Technology , Bhopal
+- 🌱 I’m currently doing my undergrad from Vellore Institute of Technology, Bhopal
 
 
 <!---
