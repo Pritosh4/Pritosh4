@@ -2,7 +2,7 @@
 
 <h3 align="center">An aspiring Data Scientist </h3>
 
-- 🌱 I’m currently doing my undergrad **undergrad from Vellore Institute of Technology, Bhopal**
+- 🌱 I’m currently doing my undergrad from ** Vellore Institute of Technology, Bhopal**
 
 - 📫 How to reach me **pritosh4407@gmail.com**
 
