@@ -1,6 +1,6 @@
 # Hi, I'm Pritosh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<h3 align="center">A Data Science Enthusiast</h3>
+<h3 align="center">An aspiring Data Scientist </h3>
 
 - 🌱 I’m currently doing my undergrad **undergrad from Vellore Institute of Technology, Bhopal**
 
